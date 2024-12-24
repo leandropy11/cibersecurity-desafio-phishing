@@ -19,7 +19,7 @@
 ### Resutados
 
 
-![Texto Alternativo]()![Setoolkit](https://github.com/user-attachments/assets/8b2839f5-f22f-48a0-a404-77cd87941ab0)
+![Setoolkit](https://github.com/user-attachments/assets/8b2839f5-f22f-48a0-a404-77cd87941ab0)
 ![Seleciona opção 1](https://github.com/user-attachments/assets/c2842b89-4b03-4909-b4bd-c934d1ebfea4)
 ![Seleciona opção 2](https://github.com/user-attachments/assets/79902d53-f71b-4ec3-81d9-adbb46c4afcd)
 ![Seleciona opção 3](https://github.com/user-attachments/assets/7d5b3d94-6bc1-408b-a611-cf58f41bff62)
